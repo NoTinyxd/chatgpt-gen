@@ -13,7 +13,7 @@ Features:
 * Retrieves OTP codes through IMAP
 * Completes the signup flow
 * Returns a valid session token
-* Supports proxies and multithreading
+* Supports proxies and multithreading(Multithreading is still pending i will implement it later)
 * No browser automation required
 
 ---
