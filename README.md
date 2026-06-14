@@ -7,7 +7,7 @@ A Python-based OpenAI account generator that automates account creation using Ma
 Unlike browser automation tools, this project reproduces the required Sentinel proof-of-work and challenge flows directly in Python, eliminating the need for a browser.
 ## preview 
 
-https://github.com/<username>/<repo-name>/raw/main/video.mp4
+https://github.com/<username>/<repo-name>/raw/main/preview.mp4
 
 Features:
 
