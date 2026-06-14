@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 import json
 from datetime import datetime
 from http.server import BaseHTTPRequestHandler, HTTPServer
@@ -7,12 +6,12 @@ from pathlib import Path
 from console import log
 
 
-HOST = "127.0.0.1"
-PORT = 8765
+HOST = "127.0.0.1" 
+PORT = 8765 #the port of your web
 FP_DIR = Path("fp")
 
-
-PAGE = r"""<!doctype html>
+# you can edit your page html accordingly or keep it unchanged its up to you
+PAGE = r"""<!doctype html> 
 <html lang="en"><head><meta charset="utf-8">
 <title>OpenAI Sentinel FP scraper</title>
 <style>
