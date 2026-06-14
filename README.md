@@ -5,9 +5,9 @@
 A Python-based OpenAI account generator that automates account creation using Mailcow email inboxes and locally generated Sentinel challenge tokens.
 
 Unlike browser automation tools, this project reproduces the required Sentinel proof-of-work and challenge flows directly in Python, eliminating the need for a browser.
-## preview 
+## preview
 
-<video src="./preview.mp4" controls width="100%"></video>
+https://raw.githubusercontent.com/<your-username>/<your-repo>/main/preview.mp4
 
 Features:
 
